@@ -160,7 +160,7 @@ svg{
     }
     svg{
         position: absolute;
-        bottom: 20%;
+        bottom: 10%;
         z-index: 1;
     }
 }
