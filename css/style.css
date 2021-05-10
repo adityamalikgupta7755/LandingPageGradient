@@ -146,7 +146,7 @@ svg{
     }
     .model-img{
         right: -10%;
-        top: 25%;
+        top: 35%;
         height: 300px;
     }
     .search-icon{
@@ -160,7 +160,7 @@ svg{
     }
     svg{
         position: absolute;
-        bottom: 10%;
+        bottom: 20%;
         z-index: 1;
     }
 }
