@@ -121,7 +121,7 @@ svg{
 @media  (max-width: 500px) {
     .content{
         max-width: 60%;
-        /* min-height: 100vh; */
+        min-height: 100vh;
     }
     .logo{
         margin-left: 7%;
