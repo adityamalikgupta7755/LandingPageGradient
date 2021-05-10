@@ -159,6 +159,8 @@ svg{
         margin: 0px 0;
     }
     svg{
-        display: none;
+        position: absolute;
+        bottom: 10%;
+        z-index: 1;
     }
 }
